@@ -1,4 +1,4 @@
-aiodns>=1.1  # aiodns speeds up DNS resolving
+aiodns>=3.6.1  # aiodns speeds up DNS resolving
 aiofile>=2.0.0
 aiohttp>=3.9.4
 cchardet
